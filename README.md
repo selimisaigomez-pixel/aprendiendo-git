@@ -2,3 +2,4 @@
 Colaborador: Compañero de equipo
 ## Capacidad 3: ramas y fusiones
 Nota: este README también se actualizó con rebase.
+Mensaje: Actualiza README desde GitHub → Commit changes.
