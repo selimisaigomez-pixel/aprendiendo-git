@@ -55,4 +55,6 @@ footer {
 
 section:hover {
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
-}
+}h1 { letter-spacing: 1px; }
+li { margin-bottom: 6px; }
+footer p { font-size: 14px; }
